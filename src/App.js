@@ -37,7 +37,7 @@ function App() {
         <input
           ref={ref}
           type="text"
-          onKeyDown={keydownHandle}
+          onKeyDown={keydownHandle }
           placeholder="Search..."
           className="search-bar"
         />
